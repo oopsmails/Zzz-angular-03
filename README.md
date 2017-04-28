@@ -1,4 +1,10 @@
 # Angular03Ngrx
+Good example for using ngrx ...
+
+From tutorial: https://auth0.com/blog/managing-state-in-angular-with-ngrx-store/
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
